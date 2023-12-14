@@ -42,3 +42,32 @@ GIS算法，主要分两种，一个是矢量相关的，一个是栅格相关�
 本书的前四章，几乎就是GIS领域现有技术的综述，各种规范格式、软件、第三方库都提了一遍。
 
 - [GIS算法索引目录](https://zhuanlan.zhihu.com/p/147689100)
+
+
+[Python与开源GIS文档](https://www.osgeo.cn/pygis/introduction.html)
+
+常用的开源GIS：
+
+空间数据库： 基于PostgreSQL数据库的PostGIS, 带有地理目 标扩展的Ingres数据库。
+
+GIS服务器：MapServer、GeoServer、Deegree
+
+WebGIS：OpenLayer、MapGuide
+
+元数据目录系统：GeoNetwork
+
+GIS开发库：GeoTools、JTS、TerraLib、Proj.4（地图投影库）
+
+桌面GIS：uDig、GRASS、OpenJump、Quantum GIS
+
+遥感图像处理系统：OSSIM（Open Source Software Image Map）、GDAL （Geospatial Data Abstraction Library）、 OpenCV
+
+三维地球：WorldWind、OSSIMPlanet、Earth3
+
+
+栅格数据
+
+
+矢量数据
+- OGR库操作
+- 矢量数据的空间分析：shapely
