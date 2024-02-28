@@ -71,3 +71,9 @@ GIS开发库：GeoTools、JTS、TerraLib、Proj.4（地图投影库）
 矢量数据
 - OGR库操作
 - 矢量数据的空间分析：shapely
+
+
+## Python与GIS
+数据处理 空间分析 地图制图
+
+[Python与开源GIS文档](https://www.osgeo.cn/pygis/index.html)
