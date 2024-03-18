@@ -69,4 +69,6 @@ RTree
 
 # 资源
 
-[]
+[《Python地理信息空间分析》学习代码](https://github.com/MrWhitebare/Python-Geography-spatial-analysis)
+
+- [Scipy 2018 教程 - Python地理信息数据分析介绍](https://github.com/findyourmagic/geospatial-data-analysis-cn/tree/master)
