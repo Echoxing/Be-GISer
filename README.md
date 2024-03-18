@@ -1,4 +1,13 @@
 # GIS学习指南
+
+## 地理空间分析
+
+### 软件
+- ArcGIS
+- QGIS
+
+### [Python地理空间分析](Python地理空间分析)
+
 ## GIS算法
 
 GIS算法，主要分两种，一个是矢量相关的，一个是栅格相关的。矢量相关的，归根结底是空间几何；栅格相关的，就是图像处理，线性代数与统计。
@@ -11,6 +20,8 @@ GIS算法，主要分两种，一个是矢量相关的，一个是栅格相关�
 - [GIS算法索引目录](https://zhuanlan.zhihu.com/p/147689100)
 - [交通时空大数据处理Python包TransBigData](https://transbigdata.readthedocs.io/en/latest/)
 - [Python与开源GIS文档](https://www.osgeo.cn/pygis/introduction.html)
+
+
 
 ## GIS开发
 
